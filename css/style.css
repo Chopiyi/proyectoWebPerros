@@ -1,0 +1,55 @@
+body{
+  background-image: url("../img/patron_fondo.jpg");
+  background-size: cover;
+  font-family: "Texturina";
+  font-variant-alternates: "Bold 700";
+  font-style: Bold 700;
+  color: white;
+}
+
+#navbarSupportedContent ul li a{
+  text-decoration: none;
+  margin-right: 1em;
+  margin-left: 1em;
+}
+#navbarSupportedContent ul:first-child > li{
+  background: #F7A419;
+}
+
+.backgroundDog{
+  background: url("../img/patron_amarillo.jpg");
+  background-size: auto;
+}
+
+.dropdown-menu {
+       width: 300px !important;
+       height: auto !important;
+}
+.tamanio-Imagen{
+  width: 553px;
+  height: auto;
+}
+.imagen-foot{
+  width: auto;
+  height: 256px;
+}
+
+.background-marino{
+  background: #00235D;
+}
+
+.texto-main{
+  text-shadow: 0.1em 0.1em 0.2em black;
+  font-size: 4.5vw;
+}
+.backgroundAmOsc{
+  background: #F7A419;
+}
+.bg-registro{
+  background-image: url("../img/patron_registro.jpg");
+  background-size: contain;
+  font-family: "Texturina";
+  font-variant-alternates: "Bold 700";
+  font-style: Bold 700;
+  color: white;
+}
